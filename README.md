@@ -1,6 +1,6 @@
 <h1 align="center">ASK SNOOPY<br></h1>
 <p align="center">
-<img src="https://ibb.co/TbsQ3gw"
+<img src="https://i.ibb.co/QC4WwKJ/my-bot.jpg"
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy) 
 
